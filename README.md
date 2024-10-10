@@ -21,9 +21,9 @@ Older courses at PUC-Rio:
 - 23.0: [Modular Forms](mf-en.md) / [Fórmas modulares](mf-pt.md) 
 - 22.2: [Algebraic Geometry and Statistical Learning Theory](agslt.md)
 - 22.2: [Complex Analysis / Análise complexa](cv.md)
-- 22.1: [Introdução à topologia](itop-pt.md)
-- 22.1: [Algebraic Structures I / Estruturas algébricas I](http://mat.puc-rio.br/~sergey/ea/)
-- 21.2: [Algebraic Structures II / Estruturas algébricas II](http://mat.puc-rio.br/~sergey/ea/galois.html)
+- 22.1: Introduction to Topology / [Introdução à topologia](itop-pt.md)
+- 22.1: Algebraic Structures I / [Estruturas algébricas I](http://mat.puc-rio.br/~sergey/ea/)
+- 21.2: Algebraic Structures II / [Estruturas algébricas II](http://mat.puc-rio.br/~sergey/ea/galois.html)
 - 21.2: [Lógica, provas e LEAN](http://mat.puc-rio.br/~sergey/provas.html)
 - 21.1: [Geometry of Robotics](robo.md)
 - 21.1: Algebraic Structures I / Estruturas algébricas I
