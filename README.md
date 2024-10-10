@@ -2,11 +2,11 @@ Syllabi (ementas) of courses in DMAT PUC-Rio:
 
 **Coming**:
 
-- 25.1: mirror symmetry
+- 25.1: [Mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 
 Current courses at PUC-Rio:
 
-- 24.2: [Geometry of Algebraic Varieties](gav.md) (with Lucas Castello Branco)
+- 24.2: [Geometry of algebraic varieties](gav.md) (with Lucas Castello Branco)
 
 Older courses at PUC-Rio:
 
