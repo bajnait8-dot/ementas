@@ -6,7 +6,7 @@ Syllabi (ementas) of courses in DMAT PUC-Rio:
 
 Current courses at PUC-Rio:
 
-- 24.2: [Geometry of Algebraic Varieties](gav.md) 
+- 24.2: [Geometry of Algebraic Varieties](gav.md) (with Lucas Castello Branco)
 
 Older courses at PUC-Rio:
 
