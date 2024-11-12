@@ -2,7 +2,7 @@ Syllabi (ementas) of courses in DMAT PUC-Rio:
 
 **Coming**:
 
-- 25.1: Minimal surfaces and [Mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
+- 25.1: [Minimal surfaces](https://en.wikipedia.org/wiki/Minimal_surface) and [Quantization](https://en.wikipedia.org/wiki/Quantization_(physics))  (60%/40% solution)
 
 Current courses at PUC-Rio:
 
