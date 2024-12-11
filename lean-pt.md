@@ -83,9 +83,10 @@ O grau G2, em sua vez, esta baseado na porcentagem dos 10 problemas de provas em
 4. https://github.com/leanprover-community/tutorials
 5. Lean for the Curious Mathematician 2020 exercises, https://github.com/leanprover-community/lftcm2020
 6. Jeremy Avigad, Leonardo de Moura, Soonho Kong: Theorem Proving in Lean, Release 3.23.0, 167 páginas. https://leanprover.github.io/theorem_proving_in_lean
+7. Kevin Buzzard, Johan Commelin, and Patrick Massot: Type Theory (in Lean perfectoid spaces). https://leanprover-community.github.io/lean-perfectoid-spaces/type_theory.html
 
 # BIBLIOGRAFIA DE PESQUISA DA DISCIPLINA 
 
 8. Homotopy Type Theory: Univalent Foundations of Mathematics, https://homotopytypetheory.org/book, Institute for Advanced Study, 2013.
-9. Vladimir VOevodsky: The Origins and Motivations of Univalent Foundations
+9. Vladimir Voevodsky: The Origins and Motivations of Univalent Foundations
 A Personal Mission to Develop Computer Proof Verification to Avoid Mathematical Mistakes. IAS, 2014. https://www.ias.edu/ideas/2014/voevodsky-origins
