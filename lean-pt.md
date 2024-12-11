@@ -56,8 +56,8 @@ em paralelo.
 
 # AVALIAÇÃO DA DISCIPLINA
 
-Critério 2
-Média = (G1+2*G2)/3
+- Critério 2
+- Média = (G1+2*G2)/3
 
 # DETALHAMENTO AVALIAÇÃO DA DISCIPLINA
 
