@@ -21,6 +21,9 @@ Na sua mensagem "As origens e motivações das fundações univalentes. Uma miss
 
 O objetivo neste curso é para alunos aprenderem essas três componentes para melhor se basear em matemática.
 
+O curso introduz os alunos para a lógica matemática, metamatemática, fundações de matemática, conjuntos, tipos e categorias,
+relacionamento de matemática, lógica e programação, e as assistentes de provas tais como Coq e LEAN,
+as linguagens de programação modernas dedicadas ao programa de formalização e verificação de provas.
 
 # EMENTA DA DISCIPLINA
 
