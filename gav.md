@@ -14,15 +14,11 @@ geometry: "left=1cm,right=1cm,top=1cm,bottom=1cm"
 #### Place, time, schedule
 
 **DMAT PUC-Rio**, **2024.2**, 
-**Tuesdays** and **Thursdays**, 
-**15h -- 17h.**
-_It is possible to change Thursday to
-Friday morning (before 13h), let me know if this is preferred option._
-Problem assignment: from June 10 to August 24.
-Public discussion of solutions: from Aug 27 to Dec 13.
+**Tuesdays** (15:00-18:00, room 160) and **Fridays** (11:00-13:00, room 336), 
+Public discussion of solutions: from Sep 3 to Dec 13.
 Holidays: Oct 15 (Tue) and Nov 15-20 (Fri,...,Wed).
-So 2 or 3 days out of 16 weeks (and 32 classes) are missing,
-making total of 29-30 days for discussion of problems
+So 3 days out of 16 weeks (and 32 classes) are missing,
+making total of 27 days for discussion of problems
 and prerequisites.
 
 
