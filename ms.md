@@ -1,8 +1,9 @@
 ### Minimal surfaces and Quantization
 
 The course of 2025.1 is going to be a 60/40 solution
-of the default graduate course on Minimal Surfaces
-with research oriented Quantization agenda.
+of the default graduate course on Minimal Surfaces in three-dimensional Euclidean space
+with research oriented Quantization agenda. The ratio 60/40 is a critical ratio
+for the course to be classified as a regular course (as opposed to topics).
 
 
 #### Regular Syllabus for [Minimal Surfaces](https://en.wikipedia.org/wiki/Minimal_surface) 
