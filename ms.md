@@ -4,17 +4,18 @@ The course of 2025.1 is going to be a 60/40 solution
 of the default graduate course on Minimal Surfaces
 with research oriented Quantization agenda.
 
-#### Regular Syllabus for Minimal Surfaces: 
 
-- Several equivalent definitions of minimal surfaces in Euclidean space.
-- Classic examples and their geometric characterizations.
-- The Weierstrass representation.
-- Curvature estimates and Bernstein's theorem.
-- Schwarz reflection principle.
-- Conjugate and associate minimal surfaces.
-- Complete minimal surfaces of finite total curvature.
-- The maximum principle, Rado theorem and the half-space theorem.
-- Douglas--Rado solution to the Plateau problem.
+#### Regular Syllabus for [Minimal Surfaces](https://en.wikipedia.org/wiki/Minimal_surface) 
+
+- Several equivalent definitions of [minimal surfaces in Euclidean space](https://en.wikipedia.org/wiki/Minimal_surface) 
+- Classic examples and their geometric characterizations
+- The Weierstrass representation
+- Curvature estimates and Bernstein's theorem
+- Schwarz reflection principle
+- Conjugate and associate minimal surfaces
+- Complete minimal surfaces of finite total curvature
+- The maximum principle, Rado theorem and the half-space theorem
+- Douglas--Rado solution to the Plateau problem
 
  
 Basic Bibliography:
@@ -37,3 +38,13 @@ Geometry V. Encyclopaedia of Mathematical Sciences, volume 90, Springer, 1997.
 2. [Tobias Holck Colding](https://en.wikipedia.org/wiki/Tobias_Colding),
 [William Philip Minicozzi II](https://en.wikipedia.org/wiki/William_Minicozzi):
 A course in minimal surfaces, AMS, 2011.
+
+Extra bibliography:
+
+- Osserman also wrote a 25 page survey titled "Minimal Varieties" in 1969, soon after his survey [3] above,
+which I find as a useful complement. One can also skim it before proceeding to [3].
+
+
+References for [Quantization](https://en.wikipedia.org/wiki/Quantization_(physics))
+
+

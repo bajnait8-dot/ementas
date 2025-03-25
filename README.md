@@ -1,12 +1,9 @@
 Syllabi (ementas) of courses in DMAT PUC-Rio:
 
-**Coming**:
-
-- 25.1: [Minimal surfaces](https://en.wikipedia.org/wiki/Minimal_surface) and [Quantization](https://en.wikipedia.org/wiki/Quantization_(physics))  (60%/40% solution)
-- 25.1: (Numerical) Linear Algebra ("Álgebra linear 2", a service course of CTC basic cycle)
-
 Current courses at PUC-Rio:
 
+- 25.1: [Minimal surfaces and Quantization](ms.md) (60%/40% solution)
+- 25.1: (Numerical) Linear Algebra ("Álgebra linear 2", a service course of CTC basic cycle)
 - 24.2: [Geometry of algebraic varieties](gav.md) (with Lucas Castello Branco)
 - 24.1: [Complex geometry](complex.md)
 - 24.1: [Linear algebra / Álgebra linear](evtl.md)
@@ -36,7 +33,7 @@ Some earlier courses (not in PUC-Rio):
 - 16.1: [Algebraic surfaces](http://mat.puc-rio.br/~sergey/surfaces.html) for HSE University
 - 15.2: [Proofs of irrationality](http://mat.puc-rio.br/~sergey/rat.html) for Independent University of Moscow
 - 14.1: [Projective geometry](pg.md) for Moscow Institute of Physics and Technology
-- 17.2: [Algebraic geometry](ag-hse.md) for HSE University had slightly different syllabus from 2020.2@PUC-Rio
+- 17.2: [Algebraic geometry](ag-hse.md) for HSE University, it had slightly different syllabus from 2020.2@PUC-Rio
 
 Syllabi for other potential courses for PUC-Rio:
 - [eag]	 [Elementary algebraic geometry](eag.md)
