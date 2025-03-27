@@ -25,25 +25,32 @@ Basic Bibliography:
 [Stefan Hildebrandt](https://pt.wikipedia.org/wiki/Stefan_Hildebrandt), 
 [Friedrich Sauvigny](https://de.wikipedia.org/wiki/Friedrich_Sauvigny): 
 Minimal surfaces. Springer, 2010.
+688 pages
 2. [Herbert Blaine Lawson](https://en.wikipedia.org/wiki/H.\_Blaine_Lawson):
 Lectures on minimal submanifolds. Publish or Perish, 1980.
+181 page
 3. [Robert Osserman](https://en.wikipedia.org/wiki/Robert_Osserman):
 A survey of minimal surfaces. Dover, 1986.
-
+224 pages
 
 Additional Bibliography:
 
 1. [Robert Osserman](https://en.wikipedia.org/wiki/Robert_Osserman) (Ed.):
 Geometry V. Encyclopaedia of Mathematical Sciences, volume 90, Springer, 1997.
    <http://mi.mathnet.ru/book119>
+266 pages
 2. [Tobias Holck Colding](https://en.wikipedia.org/wiki/Tobias_Colding),
 [William Philip Minicozzi II](https://en.wikipedia.org/wiki/William_Minicozzi):
 A course in minimal surfaces, AMS, 2011.
+313 pages
 
 Extra bibliography:
 
-- Osserman also wrote a 25 page survey titled "Minimal Varieties" in 1969, soon after his survey [3] above,
-which I find as a useful complement. One can also skim it before proceeding to [3].
+- Robert Osserman: Minimal Varieties, Bulletin of the American Mathematical Society, 75, 6, 1092--1120 (1969).
+A shorter survey that Osserman wrote soon after his survey [3] above,
+with more details on higher-dimensional hypersurfaces, subvarieties of arbitrary dimension and codimension,
+minimal cones and subvarieties in spheres.
+It is a useful complement that one can skim before proceeding to [3].
 
 
 References for [Quantization](https://en.wikipedia.org/wiki/Quantization_(physics))
